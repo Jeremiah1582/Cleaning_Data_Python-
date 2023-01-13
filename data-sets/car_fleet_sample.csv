@@ -1,0 +1,10 @@
+vin,make,model,year,range,topSpeed,zeroSixty,mileage
+TMX20122,AnyCompany Motors, CouPE, 2012, 335, ,NaN, 50000
+TM320163,AnyCompany Motors, SEDAN, 2016, 240, 140, 5.2, 20000
+TMX20121,AnyCompany Motors, Suv, 12, Nan, , 4.7, 
+TMX20204,AnyCompany Motors, Truck, 2020, 300, 155, 3.5, 0
+TMX20204,AnyCompany Motors, Truck, 2020, 300, 155, 3.5, 0
+TMX20204,AnyCompany Motors, Truck, 2020, 300, 155, 3.5, 0
+TMX2020ww,AnyCompany Bikes, MotorBike , 2033, 304, 15, 3.5, 0
+TMX2020z,AnyCompany Motors, VAN, 2020, 800, 157, 3.5, 0
+TMX20205,AnyCompany Motors, VAN, 2020, 800, 157, 3.5, 0
